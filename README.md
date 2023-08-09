@@ -18,15 +18,21 @@ Projeyi kurmanız için izlemeniz gereken adım aşağıdaki gibidir. Kurulum ya
 
 ### npx
 
-`npx create-react-app my-app`
+```
+npx create-react-app my-app
+```
 
 ### npm
 
-`npm init react-app my-app`
+```
+npm init react-app my-app
+```
 
 ### yarn
 
-`yarn create react-app my-app`
+```
+yarn create react-app my-app
+```
 
 ## Kaynaklar
 
